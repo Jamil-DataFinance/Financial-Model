@@ -1,6 +1,6 @@
 /*
 
-# Financial Model for Forecasting 5 Years of Statements
+# Financial Model for Forecasting 5 Years of  Financial Statements
 
 This repository contains a financial model designed to forecast 5 years of financial statements for Place holder comapny . The model includes a comprehensive three-statement model, a visualization dashboard, and other important schedules for detailed financial analysis.
 
